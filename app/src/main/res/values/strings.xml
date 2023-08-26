@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Layouting3</string>
+    <string name="menu">Menu</string>
+    <string name="google_play">Google Play</string>
+    <string name="apps">Apps</string>
+    <string name="populer">Populer</string>
+    <string name="more">More</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Youtube</string>
+    <string name="twitter">Twitter</string>
+    <string name="telegram">Telegram</string>
+    <string name="discord">Discord</string>
+    <string name="tiktok">Tiktok</string>
+    <string name="canva">Canva</string>
+    <string name="capcut">Capcut</string>
+    <string name="chrome">Chrome</string>
+    <string name="facebook">Facebook</string>
+</resources>
